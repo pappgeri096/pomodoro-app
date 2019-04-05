@@ -14,7 +14,7 @@ Android Studio (for development)
 ```
 
 ## Screenshoots
-<img src="http://www.kepfeltoltes.eu/images/2019/03/541Screenshot_1553844896.png" width="200" height="200" />
-<img src="http://www.kepfeltoltes.eu/images/2019/03/716Screenshot_1553844872.png" width="200" height="200" />
-<img src="http://www.kepfeltoltes.eu/images/2019/03/162Screenshot_1553844885.png" width="200" height="200" />
+<img src="http://www.kepfeltoltes.eu/images/2019/03/541Screenshot_1553844896.png" width="250" height="300" />
+<img src="http://www.kepfeltoltes.eu/images/2019/03/716Screenshot_1553844872.png" width="250" height="300" />
+<img src="http://www.kepfeltoltes.eu/images/2019/03/162Screenshot_1553844885.png" width="250" height="300" />
 
